@@ -17,14 +17,16 @@ O modelo foi treinado e avaliado em um ambiente Google Colab, utilizando acelera
 -   **Imagens para Teste:** Oferece um conjunto de imagens de exemplo para que o usuário possa testar a aplicação sem precisar de uma imagem própria.
 
 
-## 📸 Demonstração
+## 🖼️ Imagens
 
-
-![Exemplo da Interface](demonstracao/gif-brain.gif)
-
-![Exemplo da Interface](demonstracao/img-pag1.png)
+![Exemplo da Interface](demonstracao/imag-main.png)
 
 ![Exemplo da Interface](demonstracao/img-pag2.png)
+
+![Exemplo da Interface](demonstracao/img-pag3.png)
+
+## Video🎬
+![Exemplo da Interface](demonstracao/gif-brain.gif)
 
 ## 🛠️ Tecnologias Utilizadas
 
