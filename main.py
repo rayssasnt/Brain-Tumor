@@ -98,7 +98,7 @@ if selected == "Home":
 
     if uploaded_file is not None:
         
-        if st.button("Classificar Imagem 🩺"):
+        if st.button("🔎  Classificar Imagem"):
 
             st.image(uploaded_file, caption='Imagem Enviada.',use_container_width=False, width=400)
 
