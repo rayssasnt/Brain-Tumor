@@ -19,10 +19,12 @@ O modelo foi treinado e avaliado em um ambiente Google Colab, utilizando acelera
 
 ## 📸 Demonstração
 
-[Insira aqui um GIF ou uma captura de tela da sua aplicação em funcionamento para torná-la mais atrativa!]
 
-*(Exemplo de como a aplicação se parece)*
-![Imagem da interface do classificador de tumor cerebral]
+![Exemplo da Interface](demonstracao/gif-brain.gif)
+
+![Exemplo da Interface](demonstracao/img-pag1.png)
+
+![Exemplo da Interface](demonstracao/img-pag2.png)
 
 ## 🛠️ Tecnologias Utilizadas
 
