@@ -1,9 +1,12 @@
 # Classificador de Tumor Cerebral com PyTorch e Streamlit
 
 
+
 Este projeto implementa uma Rede Neural Convolucional (CNN) usando o framework PyTorch para classificar imagens de ressonância magnética em quatro categorias distintas: **glioma, meningioma, pituitário** ou se **não há presença de tumor**.
 
 O modelo foi treinado e avaliado em um ambiente Google Colab, utilizando aceleração por GPU para otimizar o tempo de treinamento.
+
+## Link : https://brain-tumor-classif.streamlit.app/
 
 ## 📋 Visão Geral
 
